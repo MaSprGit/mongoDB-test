@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-test",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaSprGit/mongodb-test.git"
+  },
+  "keywords": [],
+  "author": "Markus Springer <markus.trier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaSprGit/mongodb-test/issues"
+  },
+  "homepage": "https://github.com/MaSprGit/mongodb-test#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
